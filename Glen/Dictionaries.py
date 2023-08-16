@@ -54,12 +54,6 @@ favorite_languages = {
 
 #6-6 page number 141.
 
-list_people = ["Jazzy","Glen","sarah","The","Planner","phil"]
-for person in 
 
-
-
-for person in list_people:
-    if person
 
 
