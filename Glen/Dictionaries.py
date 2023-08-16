@@ -30,19 +30,36 @@
 # for term,meaning in glossary.items():
 #     print(term.upper(),": Means this: ",meaning)
 
-river_with_country = {
-    'Nile':'Egypt',
-    'Chaophraya':'Thailand',
-    'Thames':'England',
-    'Ganga':'India'
-}
+# river_with_country = {
+#     'Nile':'Egypt',
+#     'Chaophraya':'Thailand',
+#     'Thames':'England',
+#     'Ganga':'India'
+# }
+# for river,country in river_with_country.items():
+#     print("The",river,"runs through",country)
+# print("List of rivers are as follows:")
+# for river in river_with_country.keys():
+#     print(river)
+# print("List of countries are as follows:")
+# for country in river_with_country.values():
+#     print(country)
 
-for river,country in river_with_country.items():
-    print("The",river,"runs through",country)
+favorite_languages = {
+    'jen': 'python',
+    'sarah': 'c',
+    'edward': 'ruby',
+    'phil': 'python',
+    }
 
-print("List of rivers are as follows:")
-for river in river_with_country.keys():
-    print(river)
-print("List of countries are as follows:")
-for country in river_with_country.values():
-    print(country)
+#6-6 page number 141.
+
+list_people = ["Jazzy","Glen","sarah","The","Planner","phil"]
+for person in 
+
+
+
+for person in list_people:
+    if person
+
+
