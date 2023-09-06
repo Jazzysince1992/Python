@@ -1,6 +1,13 @@
 {
   "stories": [],
   "versions": [],
-  "backups": [],
+  "backups": [
+    {
+      "timestamp": 1693980298075,
+      "localPath": "/Users/jazzy/Documents/BabelWorkspaceBackups/babel-2023-09-06.backup.zip",
+      "cloudProviders": [],
+      "id": "916a3cf9-a789-445c-b094-6931ea70399c"
+    }
+  ],
   "activity": []
 }
