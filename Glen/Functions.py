@@ -44,13 +44,42 @@
 # print(final_list)
 # print(list1)
 #8.12
-def sandwiches(*items):
-    print("Person have ordered following items for thier sandwiches")
-    for item in items:
-        print(":",item)
-sandwiches("Cheese","Chicken","Salt","Sauce")
-sandwiches("Cheese","Chicken","Salt")
-sandwiches("Cheese","Chicken")
+# def sandwiches(*items):
+#     print("Person have ordered following items for thier sandwiches")
+#     for item in items:
+#         print(":",item)
+# sandwiches("Cheese","Chicken","Salt","Sauce")
+# sandwiches("Cheese","Chicken","Salt")
+# sandwiches("Cheese","Chicken")
 #8.13
 
+# def build_profile(first, last, **user_info):
+#     profile = {}
+#     profile['first_name'] = first
+#     profile['last_name'] = last
+#     for key, value in user_info.items():
+#         profile[key] = value
+#         return profile
 
+# jazzy = build_profile(
+#     "Saurabh","Prasad",
+#     location="Bangkok",
+#     field="physics"
+# )
+# print(jazzy)
+
+#8.14
+# def build_car(brand,model,**additional_information):
+#     car_profile={}
+#     car_profile['Brand Name'] = brand
+#     car_profile["Model Name"] = model
+#     print(additional_information)
+#     for key,value in additional_information.items():
+#         car_profile[key] = value
+#     return car_profile        
+# car1= build_car(
+#     "Toyota","Camry",
+#     color = "Black",
+#     Cruise="yes"
+# )
+# print(car1)
